@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Selecao
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Tales
+Implementation-Vendor-Id: br.com.mv.selecao
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/selecao
+Created-By: Maven Integration for Eclipse
+
